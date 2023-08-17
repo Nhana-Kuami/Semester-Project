@@ -1,8 +1,17 @@
 # Semester-Project
+
+
 Name: Boateng Francis
+
+
 Idex Number: UEB3257222
-Class: I.T C 
+
+
+Class: I.T C
+
+
 Project Description;
+
 Q: What is the purpose of this code?
 A: The purpose of this code is to simulate a simple banking and cryptocurrency trading system. It defines a class Account that represents a user account with functionalities to deposit and withdraw money, buy and sell cryptocurrencies (Dogecoin and Bitcoin), view account information, view transaction history, and clear transaction history. The main function provides a menu-driven interface for users to interact with their account and perform these actions.
 
